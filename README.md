@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+PHP Full-Stack Developer with 10+ years of experience in web development and e-commerce.
+As most of my professional projects were closed-source, I use this GitHub to showcase personal and open-source work while keeping my skills current in PHP 7/8, frameworks (Laravel, Symfony, Yii2), and JavaScript.
+
+
