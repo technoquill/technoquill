@@ -18,6 +18,10 @@ I am a PHP Full-Stack Developer with 10+ years of professional experience in web
 
 As most of my professional projects were closed-source, I use this GitHub to showcase personal and open-source work while keeping my skills current in PHP 7/8, frameworks (Laravel, Symfony, Yii2), and JavaScript.
 
+I also maintain repositories related to open-source projects, such as modules and plugins for Joomla.
+
+
+
 
 
 
